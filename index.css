@@ -1,0 +1,18 @@
+body{
+    background-color:antiquewhite;
+    text-align: center;
+}
+.logo{
+    position: relative;
+    width: 300px;
+    margin-top: 20px;
+}
+.referencia{
+    position: relative;
+    height: 50px;
+}
+.imagem{
+    position: relative;
+    margin: 20px;
+    height: 25px;
+}
