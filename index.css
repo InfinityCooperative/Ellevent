@@ -32,6 +32,10 @@ body{
     position: relative;
     height: 25px;
 }
+.nome{
+    font-size: smaller;
+    color: white;
+}
 .cooperacao1{
     position: relative;
     margin: 10px;
