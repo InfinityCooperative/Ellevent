@@ -3,7 +3,11 @@ body{
     text-align: center;
 }
 .cabecalho{
-    background-color: black;
+     background:url(imagens/cabecalho.png) center  center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
@@ -16,7 +20,11 @@ body{
     height: 90px;
 }
 .rodape{
-   background-color: black;
+   background-color: black; background:url(imagens/cabecalho.png) center  center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     border-radius: 5px;
     border-width: 0.7px;
     border-style: solid;
