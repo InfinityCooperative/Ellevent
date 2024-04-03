@@ -14,12 +14,16 @@ body{
     border-radius: 5px;
     height: auto;
 }
-.brasil{
-    position: fixed;
-    height: 30px;
-    margin-left:42%;
-    margin-top: 5px;
-}
+.voltar{
+      height: 35px;
+      margin-right: 5%;
+      margin-top: 10px;
+  }
+  .brasil{
+      height: 30px;
+      margin-left: 80%;
+      margin-top: 10px;
+  }
 .logo{
     margin-top: 0px;
     position: relative;
