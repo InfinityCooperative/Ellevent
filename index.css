@@ -74,5 +74,7 @@ body{
     height: 25px;
 }
 small{
+    position:relative;
+    text-align:center;
     color:white;
 }
