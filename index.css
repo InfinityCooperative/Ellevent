@@ -53,17 +53,38 @@ body{
 .cooperacao1{
     position: relative;
     margin: 10px;
-    color: white;
+    color: black;
+    text-decoration: none;
+}
+.cooperacao1:hover{
+    position: relative;
+    margin: 10px;
+    color: rgb(20, 3, 255);
+    text-decoration:underline;
 }
 .cooperacao2{
     position: relative;
     margin: 10px;
-    color: white;
+    color: black;
+    text-decoration: none;
+}
+.cooperacao2:hover{
+    position: relative;
+    margin: 10px;
+    color: rgb(20, 3, 255);
+    text-decoration:underline;
 }
 .cooperacao3{
     position: relative;
     margin: 10px;
-    color: white;
+    color: black;
+    text-decoration: none;
+}
+.cooperacao3:hover{
+    position: relative;
+    margin: 10px;
+    color: rgb(20, 3, 255);
+    text-decoration:underline;
 }
 .slogan{
     position: relative;
