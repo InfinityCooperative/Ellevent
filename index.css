@@ -1,7 +1,7 @@
 body{
     background-color: rgb(218, 241, 236);
     text-align: center;
-    text-color:white;
+    color:white;
 }
 .cabecalho{
      background:url(imagens/cabecalho.avif) center  center no-repeat fixed;
@@ -65,7 +65,7 @@ body{
 .cooperacao2{
     position: relative;
     margin: 10px;
-    text-color: white;
+    color: white;
     text-decoration: none;
 }
 .cooperacao2:hover{
