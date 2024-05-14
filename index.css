@@ -12,7 +12,7 @@ body{
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
-    border-radius: 5px;
+    margin: -10px -7px 0px -8px;
     height: auto;
 }
 .voltar{
@@ -36,7 +36,7 @@ body{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    border-radius: 5px;
+    margin: 0px -7px -11px -8px;
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
