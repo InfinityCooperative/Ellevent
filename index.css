@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(218, 241, 236);
+    text-align: center;
+    color:white;
+}
+.cabecalho{
+     background:url(imagens/textura.avif) center  center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-width: 0.7px;
+    border-style: solid;
+    border-color: #000;
+    margin: -10px -7px 0px -8px;
+    height: auto;
+}
+.voltar{
+    height: 35px;
+    margin:0% 0% 0% -95%;
+}
+.bandeira{
+    position: absolute;
+    height: 300px;
+    margin:-280px 0px 0px 77%;
+    transition-duration: 0.5s;
+}
+.bandeira:hover{
+    height: 300px;
+    margin:-143px 0px 0px 77%;
+    transition-duration: 0.5s;
+    transition-delay: 0.1s;
+}
+.logo{
+  margin: 45px;
+  position: relative;
+  height: 100px;
+}
+
+.rodape{
+   background-color: black; 
+   background:url(imagens/textura.avif) center  center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0px -7px -11px -8px;
+    border-width: 0.7px;
+    border-style: solid;
+    border-color: #000;
+    height: auto;
+}
+.botaoenv:hover{
+    background-color: rgb(92, 255, 155);
+    color: black;
+    width: 60px;
+    height: 25px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 10px;
+}
+.imagem{
+    height: 40px;
+}
+.imagem:hover{
+    height: 45px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 100%;
+}
+.mensagem{
+    height: 100px;
+    width: 190px;
+}
+.cooperacao1{
+    position: relative;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+.cooperacao1:hover{
+    position: relative;
+    margin: 10px;
+    color: rgb(20, 3, 255);
+    text-decoration:underline;
+}
+.cooperacao2{
+    position: relative;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+.cooperacao2:hover{
+    position: relative;
+    margin: 10px;
+    color: rgb(20, 3, 255);
+    text-decoration:underline;
+}
+.cooperacao3{
+    position: relative;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+.cooperacao3:hover{
+    position: relative;
+    margin: 10px;
+    color: rgb(20, 3, 255);
+    text-decoration:underline;
+}
+.slogan{
+    position: relative;
+    height: 75px;
+}
+.referencia{
+    position: relative;
+    height: 25px;
+}
+.direitos{
+    font-size: 9px;
+    text-align: center;
+    margin: 0px 0px 1% 0px;
+}
+h6 img{
+margin: 0px 0px -0.5% 0px;
+    height: 20px;
+}
