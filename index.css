@@ -16,25 +16,25 @@ body{
     height: auto;
 }
 .voltar{
-    height: 35px;
-    margin:0% 0% 0% -95%;
+    height: 30px;
+    margin: -1% 0% 0% -86%;
 }
 .bandeira{
     position: absolute;
-    margin: -57px 0% 0% 76%;
+    margin: -57px 0% 0% 70%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover{
     position: absolute;
-    margin: -18px 0% 0% 76%;
+    margin: -18px 0% 0% 70%;
     height: 80px;
     transition: 1s;
 }
 .logo{
-  margin: 45px;
+  margin: 40px;
   position: relative;
-  height: 100px;
+  height: 75px;
 }
 .rodape{
    background-color: black; 
