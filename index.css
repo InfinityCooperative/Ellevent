@@ -70,66 +70,50 @@ body{
     height: 100px;
     width: 190px;
 }
-.cooperacao1{
-    position: relative;
-    margin: 10px;
-    color: white;
+
+h4 {
+    margin: 5px;
+}
+.cooperacao1,
+.cooperacao2,
+.cooperacao3,
+.cooperacao4,
+.cooperacao5 {
+    margin: 5.7px;
+    color: black;
     text-decoration: none;
 }
-.cooperacao1:hover{
-    position: relative;
-    margin: 10px;
+.cooperacao1:hover,
+.cooperacao2:hover,
+.cooperacao3:hover,
+.cooperacao4:hover,
+.cooperacao5:hover {
     color: rgb(20, 3, 255);
-    text-decoration:underline;
+    text-decoration: underline;
 }
-.cooperacao2{
-    position: relative;
-    margin: 10px;
-    color: white;
-    text-decoration: none;
+.nomes{
+    margin: 2%;
+    display: flex;
+    justify-content: space-around;
 }
-.cooperacao2:hover{
-    position: relative;
-    margin: 10px;
-    color: rgb(20, 3, 255);
-    text-decoration:underline;
-}
-.cooperacao3{
-    position: relative;
-    margin: 10px;
-    color: white;
-    text-decoration: none;
-}
-.cooperacao3:hover{
-    position: relative;
-    margin: 10px;
-    color: rgb(20, 3, 255);
-    text-decoration:underline;
-}
-.slogan{
-    position: relative;
-    height: 75px;
-}
-.referencia{
-    position: relative;
-    height: 25px;
+.direitos {
+    font-size: 9px;
+    text-align: center;
+    margin: -24px 0 1% 0;
 }
 img.doacao {
     display: grid;
     transform: rotate(-45deg);
-    margin: 36px;
     height: 71px;
+    border-radius: 17px;
     justify-content: end;
+    margin: 6% 0% 11% 6%;
+}
+img.doacao:hover{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    border: 0.5px solid #000;
+    transition: background 0.6s;
 }
 a{
     display: contents;
-}
-.direitos{
-    font-size: 9px;
-    text-align: center;
-    margin: 0px 0px 1% 0px;
-}
-h6 img{
-margin: 0px 0px -0.5% 0px;
-    height: 20px;
 }
