@@ -70,7 +70,6 @@ body{
     height: 100px;
     width: 190px;
 }
-
 h4 {
     margin: 5px;
 }
@@ -80,7 +79,7 @@ h4 {
 .cooperacao4,
 .cooperacao5 {
     margin: 5.7px;
-    color: black;
+    color: white;
     text-decoration: none;
 }
 .cooperacao1:hover,
