@@ -48,6 +48,23 @@ body{
     border-color: #000;
     height: auto;
 }
+.form{
+    background: #237694;
+    display: inline-grid;
+    padding: 30px 60px;
+    margin: 50px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+label{
+    margin:10px;
+    font-weight: bold;
+}
+.botaoenv:hover {
+    text-decoration: underline;
+    border-style: solid;
+}
 .botaoenv:hover{
     background-color: rgb(92, 255, 155);
     color: black;
@@ -79,7 +96,7 @@ h4 {
 .cooperacao4,
 .cooperacao5 {
     margin: 5.7px;
-    color: black;
+    color: white;
     text-decoration: none;
 }
 .cooperacao1:hover,
